@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDownloadManager</string>
+    <string name="download_image">Download Image</string>
+    <string name="download_song">Download Song</string>
+</resources>
